@@ -1,7 +1,7 @@
 {
   "name": "kh-svg2png",
   "description": "Converts SVGs to PNGs, using PhantomJS (fork from svg2png)",
-  "version": "1.4.1.0",
+  "version": "1.0.0",
   "author": "Cem Derin <cd@kodehaus.de>",
   "license": "WTFPL",
   "repository": "cemderin/kh-svg2png",
