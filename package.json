@@ -1,10 +1,10 @@
 {
-  "name": "svg2png",
-  "description": "Converts SVGs to PNGs, using PhantomJS",
-  "version": "4.1.0",
-  "author": "Domenic Denicola <d@domenic.me> (https://domenic.me)",
+  "name": "kh-svg2png",
+  "description": "Converts SVGs to PNGs, using PhantomJS (fork from svg2png)",
+  "version": "1.4.1.0",
+  "author": "Cem Derin <cd@kodehaus.de>",
   "license": "WTFPL",
-  "repository": "domenic/svg2png",
+  "repository": "cemderin/kh-svg2png",
   "main": "lib/svg2png.js",
   "bin": "bin/svg2png-cli.js",
   "files": [
